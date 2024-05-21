@@ -1,4 +1,4 @@
-# <div>Hello! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Tola, a full-time Frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80">
+# <div>Hello! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Tola, a full-time Frontend and Backend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80">
 
 
 😎 I’m currently working on my IT projects
@@ -10,7 +10,7 @@
 
 ## <div>My Stack</div>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,react,next,gulp,figma,git,npm,netlify,vercel,vscode,windows&)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,react,next,gulp,figma,git,npm,netlify,vercel,wordpress,phpstorm,vscode,docker,windows&)](https://skillicons.dev)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tagtwp&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
