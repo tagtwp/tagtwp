@@ -12,6 +12,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,react,tailwind,next,gulp,figma,git,npm,netlify,vercel,wordpress,phpstorm,postman,vscode,docker,windows&)](https://skillicons.dev)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tagtwp&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=tagtwp&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
 
