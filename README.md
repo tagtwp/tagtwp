@@ -12,4 +12,13 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,react,tailwind,next,gulp,figma,git,npm,netlify,vercel,wordpress,phpstorm,postman,vscode,docker,windows&)](https://skillicons.dev)
 
+###
+While you are here, enjoy watching this snake stuff 😄
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/tagtwp/tagtwp/output/snake.svg" alt="Snake animation" />
+
+###
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=tagtwp&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+
